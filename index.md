@@ -9,3 +9,7 @@ Bennys helmet is fractured just as all lego spaceman helmet were broken in the 8
 * reliable
 * clever
 * amiable
+
+Quote:
+
+> Spaceship, spaceship, spaceship!
