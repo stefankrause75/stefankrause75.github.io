@@ -13,3 +13,5 @@ Bennys helmet is fractured just as all lego spaceman helmet were broken in the 8
 Quote:
 
 > Spaceship, spaceship, spaceship!
+
+<img src="https://www.lego.com/cdn/cs/catalog/assets/bltbd0fcabb2ed3eb9d/1/70841_Benny_PrimaryImage.jpg">
