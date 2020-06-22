@@ -5,6 +5,7 @@ Bennys helmet is fractured just as all lego spaceman helmet were broken in the 8
 
 ## Character traits
 
-- enthusiastic
-- reliable
-- clever
+* enthusiastic
+* reliable
+* clever
+* amiable
